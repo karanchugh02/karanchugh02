@@ -10,7 +10,7 @@
   
 </div>
 
-<img align="right" src="./codingcat.gif"/>
+<img align="right" src="./funny-animals-cats-typing.gif"/>
 
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on Node Js.
