@@ -2,10 +2,7 @@
   
 <!-- <img href="https://www.linkedin.com/in/nyctonio" src="https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin"/> -->
   
-[![linkedin badge](https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/nyctonio)
-[![twitter badge](https://img.shields.io/badge/@nyctonio-30302f?style=flat&logo=twitter)](https://twitter.com/nyctonio)
-[![medium badge](https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=medium)](https://medium.com/@nyctonio)
-[![dev badge](https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=dev.to)](https://dev.to/nyctonio)
+[![linkedin badge](https://img.shields.io/badge/Ritesh_Kumar-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/karan-chugh-953500204)
 
 <h1>Hey there, I'm Karan Chugh <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/></h1>
 
