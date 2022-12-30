@@ -49,7 +49,12 @@
 
 <br>
 
-<h3 align="center">📊 My GitHub Stats</h3>
+<h3 align="center">My GitHub Stats 📊 </h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanchugh02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="karan :: Profile Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanchugh02&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="karan :: Top Langs" />
+</p>
+
 <!-- <p align="center"> -->
  
 <!--START_SECTION:waka-->
@@ -69,9 +74,11 @@ CSS          0 secs          ░░░░░░░░░░░░░░░░░
 </p>
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=karanchugh02)
  -->
+ 
+ 
 
 
 </br>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nyctonio&theme=nord&no-frame=true&margin-w=10&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=karanchugh02&theme=nord&no-frame=true&margin-w=10&column=7" />
 </div>
