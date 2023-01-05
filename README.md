@@ -52,7 +52,6 @@
 <h3 align="center">My GitHub Stats 📊 </h3>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanchugh02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="karan :: Profile Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanchugh02&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="karan :: Top Langs" />
 </p>
 
 <!-- <p align="center"> -->
