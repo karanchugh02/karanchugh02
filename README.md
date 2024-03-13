@@ -13,8 +13,7 @@
 <img align="right" src="./funny-animals-cats-typing.gif"/>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on Node Js.
-- 🌱 I’m currently learning Next Js and Data Structures.
+- 🔭 I’m currently working on Node Js and Next Js.
 - 💬 Ask me about WebDev,C++,DataStructures,Cloud.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/karan-chugh-953500204/">Linkedin</a>
 
