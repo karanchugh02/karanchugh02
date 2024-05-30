@@ -58,7 +58,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash         27 mins         ████████████████████████▒   97.50 %
+SSH Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
