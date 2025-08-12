@@ -58,9 +58,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 5 mins     █████████████████▓░░░░░░░   70.74 %
-JSON         23 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.79 %
-SSH Config   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+SSH Config   3 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
